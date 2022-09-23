@@ -10,7 +10,6 @@ role: Research Scientist and Bioethicist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name :Freelancer
   - name: Educational Alliance
     url: https://www.edalliance.org
 
