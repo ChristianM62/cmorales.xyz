@@ -52,6 +52,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ChristianM62
+  - icon: orcid
+    icon_pack: ai
+    link: http://orcid.org/0000-0001-9117-8418
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christianmorales88/
