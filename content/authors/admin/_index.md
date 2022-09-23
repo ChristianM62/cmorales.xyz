@@ -76,4 +76,6 @@ highlight_name: true
 
 I have over a decade of experience working in areas related to health care and public health. I completed a PhD in Bioethics and Health Policy at the Johns Hopkins Bloomberg School of Public Health and the Berman Institute of Bioethics. My dissertation focused on normative and empirical issues in the measurement of disability-related health disparities. Before all that, I studied Bioethics and Philosophy at New York University.
 
+The primary goal of my research is to improve evidence-based policy making by identifying the often implicit normative assumptions underpinning health policy research and analysis. My expertise is in U.S. health policy, public health ethics, and quantitative research methods.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
