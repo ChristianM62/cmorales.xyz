@@ -32,7 +32,7 @@ education:
     - course: MA - Bioethics
       institution: New York Univeristy
       year: 2011
-    - course: BA Philosophy
+    - course: BA - Philosophy
       institution: New York University
       year: 2010
 
@@ -76,4 +76,4 @@ highlight_name: true
 
 I have over a decade of experience working in areas related to health care and public health. I completed a PhD in Bioethics and Health Policy at the Johns Hopkins Bloomberg School of Public Health and the Berman Institute of Bioethics. My dissertation focused on normative and empirical issues in the measurement of disability-related health disparities. Before all that, I studied Bioethics and Philosophy at New York University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
