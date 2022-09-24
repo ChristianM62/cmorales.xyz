@@ -63,7 +63,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: static/uploads/resume.pdf
+  link: static/uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'christian@cmorales.xyz'
@@ -76,4 +76,4 @@ I have over a decade of experience working in areas related to health care and p
 
 The primary goal of my research is to improve evidence-based policy making by identifying the often implicit normative assumptions underpinning health policy research and analysis. My expertise is in U.S. health policy, public health ethics, and quantitative research methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
