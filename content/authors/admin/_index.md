@@ -12,6 +12,7 @@ role: Research Scientist and Bioethicist
 organizations:
   - name: Educational Alliance
     url: https://www.edalliance.org
+  - Available for Freelance Work  
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Research Scientist and Bioethicist based in New York City.
