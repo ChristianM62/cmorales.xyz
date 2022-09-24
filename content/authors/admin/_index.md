@@ -60,13 +60,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/christianmorales88/
 
-# Link to a PDF of your resume/CV.
-- icon: cv
-  icon_pack: ai
-  link: static/uploads/CV.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'christian@cmorales.xyz'
+# email: 'christian@cmorales.xyz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
