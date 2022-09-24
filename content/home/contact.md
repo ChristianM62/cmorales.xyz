@@ -25,8 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: christian@cmorales.xyz
-  phone: 347 878 0488
+ 
 
 design:
   columns: '2'
