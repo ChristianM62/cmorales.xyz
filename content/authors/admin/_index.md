@@ -72,4 +72,4 @@ I have over a decade of experience working in areas related to health care and p
 
 The primary goal of my research is to improve evidence-based policy making by identifying the often implicit normative assumptions underpinning health policy research and analysis. My expertise is in U.S. health policy, public health ethics, and quantitative research methods.
 
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/cv.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/resume.pdf" "newtab" >}}Download my Resume{{< /staticref >}}.
