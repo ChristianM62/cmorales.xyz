@@ -6,12 +6,12 @@ title: Christian Morales, PhD
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist and Bioethicist
+role: Researcher, Data Scientist, and Bioethicist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Educational Alliance
-    url: https://www.edalliance.org
+  - name: American Institutes for Research
+    url: https://www.air.org
   - name: Available for Freelance Work  
 
 # Short bio (displayed in user profile at end of posts)
